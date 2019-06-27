@@ -1,2 +1,2 @@
-Task 6
-------
+git commit --amend
+To save - esc :wq
