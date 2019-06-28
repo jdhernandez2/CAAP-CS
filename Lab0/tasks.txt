@@ -1,5 +1,12 @@
+Task 6 arguments:
 git commit --amend
 To save - esc :wq
+Task 7 arguments:
 commit c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168
    Add --no-mouse option to replace FZF_MOUSE_ENABLED
 devhints.io/git-log
+Task 8 arguments:
+added any content w/echo
+git diff readme.txt
+undo changes w/git checkout
+Source: Charlie for git diff function
