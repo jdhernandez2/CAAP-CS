@@ -10,3 +10,8 @@ added any content w/echo
 git diff readme.txt
 undo changes w/git checkout
 Source: Charlie for git diff function
+Task 9 arguments:
+created mistake.txt w/touch
+git add, commit and git push for file
+removed mistake.txt w/ rm and verified presence of history w/git log
+Source: class handouts
