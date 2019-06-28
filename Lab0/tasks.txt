@@ -1,2 +1,5 @@
 git commit --amend
 To save - esc :wq
+commit c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168
+   Add --no-mouse option to replace FZF_MOUSE_ENABLED
+devhints.io/git-log
