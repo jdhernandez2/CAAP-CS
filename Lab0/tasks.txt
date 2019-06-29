@@ -15,3 +15,8 @@ created mistake.txt w/touch
 git add, commit and git push for file
 removed mistake.txt w/ rm and verified presence of history w/git log
 Source: class handouts
+Corrected Task 9 arguments:
+Accidentally created mistake.txt
+Accidentally pushed file
+used git revert hash #
+pushed new reverted commit
